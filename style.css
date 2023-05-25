@@ -37,7 +37,7 @@ background-color: black;
  }
  .grad-a{
     grid-area:lado;
-    background-color: black;
+    background-color:white;
     
  }
  .grad-f{
@@ -47,3 +47,15 @@ background-color: black;
  body{
    text-align: center;
  }
+ .imagem{
+   width: 300px;
+   height: 300px;
+ }
+main p{
+text-align: center;
+font-size: 25px;
+}
+aside p{
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
